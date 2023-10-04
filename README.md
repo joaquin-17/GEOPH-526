@@ -1,2 +1,2 @@
 # GEOPH-526
-Signal Processing applied to Seismic Processing 
+Some simple examples of signal processing applied to seismic data processing 
